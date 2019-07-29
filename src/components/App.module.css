@@ -1,0 +1,13 @@
+.App_root {
+  color: rebeccapurple;
+  width: 208px;
+  margin: 0 auto;
+}
+
+.App_root__header {
+  display: flex;
+}
+
+.menu {
+  list-style: none;
+}
